@@ -18,17 +18,18 @@ node shot.js <file>.html ../YYYY-MM/BSS-pin-<slug>.jpg
 - **Product** (`product-*.html`): a kit or a single listing. Fanned template images, name, chips of what's included.
 - **What's inside** (`inside-*.html`): grid of the 5 templates for a trade, links to the kit.
 - **Tip** (`tip-*.html`): 5-point list of practical advice for service-business owners plus one template image; links to the matching single. The tip must be genuinely useful on its own.
+- **Inspiration** (`inspire-quote.html`): no selling and no product images. A short, original line or idea worth saving (small-business mindset, systems, boundaries, pricing confidence, rest, seasonal reflections, a satisfying organized-desk or before/after-day idea) with one supporting sentence. Vary the eyebrow ("Note to self", "Monday reminder", "Pricing truth", "Fall reset"), and alternate cream and dark (set `--bgc:var(--deep);--fgc:#fff` and lighten `.sub`). Original wording only, never quotes attributed to real people. Link to the shop home page `https://bookedsolidstudio.etsy.com`, title and description written for interest, not a sales pitch (no "buy", no prices). Boards: How to Start a Cleaning Business, Service Business Organization.
 Brand: navy #20365D / #122647, gold #D2AE66 / #9A7A35, cream #F7F3EC, Fraunces + DM Sans. Keep the footer bar and logo.
 
 ## Weekly mix (about 21-25 pins, 3-4 a day, Mon-Sun)
-- ~40% tip pins (pricing, contracts, getting paid, onboarding, checklists, starting a business), ~35% product pins (rotate all 12 listings), ~25% what's-inside or kit pins.
+- Cam wants plenty of value and interest, not constant selling: ~30% inspiration pins (link to shop home), ~30% tip pins, ~25% product pins (rotate all live listings), ~15% what's-inside or kit pins. At least one inspiration pin every day.
 - Every live listing gets at least one pin per week. Alternate trades. Use fresh titles; existing images may be reused with a new title/board after 3+ weeks.
 - Times (ET), varied: 8:30-10:00, 12:00-13:30, 15:00-16:30, 19:30-21:30.
 
 ## Copy rules
 - Pin title <= 100 chars, keyword-first ("Cleaning Invoice Template", "Lawn Care Contract Template"). Description 2-4 plain sentences, keywords natural, no hashtags spam (0-3 max), no emojis.
 - Never call anything free; never invent features, stats, reviews or prices. Agreement pins must not imply legal advice.
-- Link every pin to `https://www.etsy.com/listing/<id>` from the catalog (kit pins to the kit).
+- Link product, kit and tip pins to `https://www.etsy.com/listing/<id>` from the catalog (kit pins to the kit); inspiration pins link to the shop home page.
 - Alt text describes the image.
 
 ## Checks before scheduling
