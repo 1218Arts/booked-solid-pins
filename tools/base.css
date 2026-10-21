@@ -1,0 +1,14 @@
+@font-face{font-family:Fraunces;font-weight:500;src:url(node_modules/@fontsource/fraunces/files/fraunces-latin-500-normal.woff2)}
+@font-face{font-family:'DM Sans';font-weight:400;src:url(node_modules/@fontsource/dm-sans/files/dm-sans-latin-400-normal.woff2)}
+@font-face{font-family:'DM Sans';font-weight:500;src:url(node_modules/@fontsource/dm-sans/files/dm-sans-latin-500-normal.woff2)}
+@font-face{font-family:'DM Sans';font-weight:700;src:url(node_modules/@fontsource/dm-sans/files/dm-sans-latin-700-normal.woff2)}
+:root{--navy:#20365D;--deep:#122647;--gold:#D2AE66;--gold-deep:#9A7A35;--cream:#F7F3EC;--muted:#4A4E55}
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1000px;height:1500px;font-family:'DM Sans',sans-serif;position:relative;overflow:hidden;background:var(--cream)}
+.doc{position:absolute;border-radius:6px;box-shadow:0 24px 50px rgba(0,0,0,.32),0 5px 12px rgba(0,0,0,.2)}
+.eb{font-weight:700;font-size:28px;letter-spacing:.16em;text-transform:uppercase}
+.foot{position:absolute;left:0;right:0;bottom:0;height:120px;background:var(--deep);display:flex;align-items:center;justify-content:space-between;padding:0 60px;color:#fff}
+.foot .b{display:flex;align-items:center;gap:18px;font-family:Fraunces,serif;font-size:38px}
+.foot .b span{width:76px;height:76px;background:#fff;border-radius:14px;display:flex;align-items:center;justify-content:center}
+.foot .b img{height:62px}
+.foot .c{background:var(--gold);color:var(--deep);font-weight:700;font-size:28px;padding:16px 28px;border-radius:999px}

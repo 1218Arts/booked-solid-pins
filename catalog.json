@@ -1,0 +1,90 @@
+{
+ "shop": "https://bookedsolidstudio.etsy.com",
+ "metricool": {
+  "blogId": "7552117",
+  "timezone": "America/New_York"
+ },
+ "raw_base": "https://raw.githubusercontent.com/1218Arts/booked-solid-pins/pins/",
+ "boards": {
+  "Cleaning Business Forms & Templates": "1109363389402662526",
+  "Lawn Care Business Templates": "1109363389402662527",
+  "Small Business Invoice Templates": "1109363389402662529",
+  "Service Contract Templates": "1109363389402662553",
+  "How to Start a Cleaning Business": null,
+  "Service Business Organization": "1109363389402662537"
+ },
+ "trades": {
+  "cleaning": {
+   "label": "Cleaning",
+   "images": "tools/src/cleaning/",
+   "listings": {
+    "kit": {
+     "id": "4598907522",
+     "name": "Cleaning Business Starter Kit",
+     "price": "12.99"
+    },
+    "agreement": {
+     "id": "4598932250",
+     "name": "Cleaning Service Agreement",
+     "price": "4.99"
+    },
+    "checklist": {
+     "id": "4599439264",
+     "name": "House Cleaning Checklist",
+     "price": "4.99"
+    },
+    "quote": {
+     "id": "4599440150",
+     "name": "Cleaning Estimate Form",
+     "price": "4.99"
+    },
+    "invoice": {
+     "id": "4599440814",
+     "name": "Cleaning Invoice",
+     "price": "4.99"
+    },
+    "intake": {
+     "id": "4599417761",
+     "name": "Cleaning Client Intake Form",
+     "price": "4.99"
+    }
+   }
+  },
+  "landscaping": {
+   "label": "Lawn Care",
+   "images": "tools/src/landscaping/",
+   "listings": {
+    "kit": {
+     "id": "4599452078",
+     "name": "Lawn Care Starter Kit",
+     "price": "12.99"
+    },
+    "agreement": {
+     "id": "4599453200",
+     "name": "Lawn Care Service Agreement",
+     "price": "4.99"
+    },
+    "checklist": {
+     "id": "4599430701",
+     "name": "Lawn Care Visit Checklist",
+     "price": "4.99"
+    },
+    "quote": {
+     "id": "4599431437",
+     "name": "Lawn Care Estimate Form",
+     "price": "4.99"
+    },
+    "invoice": {
+     "id": "4599432183",
+     "name": "Lawn Care Invoice",
+     "price": "4.99"
+    },
+    "intake": {
+     "id": "4599456484",
+     "name": "Lawn Care Client Intake Form",
+     "price": "4.99"
+    }
+   }
+  }
+ }
+}
